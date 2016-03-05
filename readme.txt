@@ -1,7 +1,7 @@
 === Right Click Disable Orignal ===
 Contributors: yash fale
-Tags: disable right click , right click disable ,prevent right click , stop right click , Stop saving images with right click, free downlaod disable right click ,right click disable plugin by yash fale 
-Donate link: http://yashfale.in/plugins
+Tags: disable right click , right click disable ,prevent right click , stop right click , Stop saving images with right click, free downlaod disable right click. 
+Donate link: https://profiles.wordpress.org/yash-fale
 Requires at least: 3.9
 Tested up to: 4.2
 Stable tag: 4.2
@@ -11,7 +11,7 @@ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 Right Click Disable Orignal prevents right click on Wordpress site.
 
 == Description ==
-[Right Click Disable Orignal](http://yashfale.in/plugins/right-click-disable-orignal-plugin-for-wordpress) is a free wordpress plugin. It gives users the ability to prevent right Click on wordpress site.The plugin is lightweight. Use it and Enjoy. 
+[Right Click Disable Orignal](https://wordpress.org/plugins/right-click-disable-orignal/) is a free wordpress plugin. It gives users the ability to prevent right Click on wordpress site.The plugin is lightweight. Use it and Enjoy. 
 
 = Features =
 
@@ -43,7 +43,7 @@ Yes.
 
 
 == Screenshots ==
-1. For screenshots please visit the [Right Click Disable Orignal](http://yashfale.in/plugins/right-click-disable-orignal-plugin-for-wordpress) plugin page
+1. For screenshots please visit the [Right Click Disable Orignal](https://wordpress.org/plugins/right-click-disable-orignal/) plugin page
 
 == Changelog ==
 = 2.0 =
